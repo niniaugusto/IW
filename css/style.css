@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(247, 10, 10);
+    background-color: rgb(253, 6, 6);
 }
 h1{
     color: azure;
@@ -7,7 +7,7 @@ h1{
 }
 header{
     width: 100;
-    background-color: crimson;
+    background-color: rgb(253, 6, 6);
 }
 .logo{
     color: azure;
