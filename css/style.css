@@ -28,4 +28,10 @@ nav{
 .container{
     background-color: darkred;
     width: 80%;
+    margin: auto;
+}
+
+footer{
+    background-color: blueviolet;
+    width: 80%;
 }
