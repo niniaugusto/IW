@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(247, 10, 10);
 }
 h1{
     color: azure;
@@ -26,12 +26,12 @@ nav{
 }
 
 .container{
-    background-color: darkred;
+    background-color: rgb(0, 0, 0);
     width: 80%;
     margin: auto;
 }
 
 footer{
-    background-color: blueviolet;
+    background-color: rgb(253, 6, 6);
     width: 80%;
 }
