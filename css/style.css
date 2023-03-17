@@ -5,3 +5,12 @@ h1{
     color: azure;
     text-align: center;
 }
+header{
+    width: 100;
+    background-color: crimson;
+}
+.logo{
+    color: azure;
+    text-align: center;
+    font-size:  1.4em;
+}
