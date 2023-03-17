@@ -24,3 +24,8 @@ nav{
 .banner{
     width: 100%;
 }
+
+.container{
+    background-color: darkred;
+    width: 80%;
+}
