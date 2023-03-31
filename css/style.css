@@ -1,16 +1,16 @@
 body{
-    background-color: rgb(253, 6, 6);
+    background-color: rgb(0, 0, 0);
 }
 h1{
-    color: azure;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 header{
     width: 100;
-    background-color: rgb(253, 6, 6);
+    background-color: rgb(253, 228, 6);
 }
 .logo{
-    color: azure;
+    color: rgb(4, 5, 0);
     text-align: center;
     font-size:  1.4em;
 }
@@ -32,6 +32,6 @@ nav{
 }
 
 footer{
-    background-color: rgb(253, 6, 6);
+    background-color: rgb(0, 0, 0);
     width: 80%;
 }
