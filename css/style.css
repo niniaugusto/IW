@@ -1,23 +1,27 @@
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: black;
 }
+
 h1{
-    color: rgb(0, 0, 0);
+    color: yellow;
     text-align: center;
 }
-header{
+
+header {
+    color: #fff;
     width: 100%;
-    background-color: rgb(253, 249, 6);
+    background-color: rgb(255, 217, 0);
 }
+
 .logo{
-    color: rgb(0, 0, 0);
+    color: rgb(97, 104, 2);
     text-align: center;
-    font-size:  1.4em;
+    font-size: 1.4em;
 }
 
 nav{
-
-    text-align: right;
+    color: rgb(97,104, 2);
+    text-align: center;
     font-size: 1.4em;
 }
 
@@ -26,12 +30,32 @@ nav{
 }
 
 .container{
-    background-color: rgb(216, 213, 3);
-    width: 100%;
+    background-color: rgb(255, 247, 0);
+    width: 80%;
     margin: auto;
 }
 
 footer{
-    background-color: rgb(254, 250, 0);
+    background-color: rgb(255, 247, 0);
+    color: red;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+p{
+    line-height: 1.5;
+    text-align: justify;
+    text-indent: 15px;
+} 
+
+ul{
+    line-height: 1.5;
+}
+
+h2{
+    font-size: 1.8em;
+    text-align: center;
+}
+.banner{
     width: 100%;
 }
