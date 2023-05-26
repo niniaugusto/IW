@@ -4,9 +4,9 @@ html{
    
    }
    body{
-       background-image: url(../img/fundo.png);
+       background-image: url(../img/fundo\ do\ fundo.jpg);
        background-attachment: fixed;
-       font-family: 'Bruno Ace', cursive;
+       font-family: 'Bebas Neue', cursive;
    }
 h1{
         color: rgb(0, 0, 0);
@@ -39,6 +39,8 @@ nav{
         background-color: rgb(0, 0, 0);
         width: 80%;
         margin: auto;
+        padding-left: 2%;
+        padding-right: 2%;
     }
 
 footer{
