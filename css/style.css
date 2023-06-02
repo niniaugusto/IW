@@ -20,6 +20,7 @@ p{
     font-size: 1.2em;
     text-align: justify;
     text-indent: 25px;
+    color: white;
     }  
 
 header {
@@ -109,4 +110,4 @@ footer{
         transition: 0.3s;   
         border-style: double;
         border-color: #696969;
-        border-width: 5px;
+        border-width: 5px;}
