@@ -110,4 +110,16 @@ footer{
         transition: 0.3s;   
         border-style: double;
         border-color: #696969;
-        border-width: 5px;}
+        border-width: 5px;
+    }
+        /* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+    .linha {
+      flex-direction: column;
+    }
+
+    .col-6 {
+        width: 100%;
+    }
+  }
+
