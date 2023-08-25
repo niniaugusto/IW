@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fixado{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #FABA70;
+    padding: 1%;
+    font-family: 'Manrope', sans-serif;
+}
+
+.relativo0{
+    position: relative;
+}
+
+.relativo1{
+    position: relative;
+    border: solid 10px #FFE975;
+    top: 10em;
+    left:10em;
+    width: 10em;
+    height:10em;
+    font-family:'Manrope', sans-serif;
+}
+
+.absoluto
+{
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    border: solid 5px #FABA70;
+    width:5em;
+    height: 5em;
+}
+
+.fixado-baixo{
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+}
